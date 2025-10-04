@@ -1,0 +1,7 @@
+{
+  "name": " Dentibuddy V%",
+  "description": "An AI-powered web application providing oral health education, symptom tracking, and community support for South Africans. Users can chat with an AI assistant, read articles, find local dental resources, and connect with a community forum.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
